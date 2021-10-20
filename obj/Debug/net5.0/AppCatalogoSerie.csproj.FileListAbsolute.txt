@@ -1,0 +1,16 @@
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/AppCatalogoSerie
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/AppCatalogoSerie.deps.json
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/AppCatalogoSerie.runtimeconfig.json
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/AppCatalogoSerie.runtimeconfig.dev.json
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/AppCatalogoSerie.dll
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/ref/AppCatalogoSerie.dll
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/bin/Debug/net5.0/AppCatalogoSerie.pdb
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.csproj.AssemblyReference.cache
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.GeneratedMSBuildEditorConfig.editorconfig
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.AssemblyInfoInputs.cache
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.AssemblyInfo.cs
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.csproj.CoreCompileInputs.cache
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.dll
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/ref/AppCatalogoSerie.dll
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.pdb
+/home/reno/ws/dev/csharp/asp-dotnet/dio/avanade-codeanywhere/M10/AppCatalogoSerie/obj/Debug/net5.0/AppCatalogoSerie.genruntimeconfig.cache
